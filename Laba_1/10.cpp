@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    double num1, num2, num3;
+    float num1, num2, num3;
 
     std::cout << "Введите первое число: ";
     std::cin >> num1;
@@ -12,7 +12,7 @@ int main() {
     std::cout << "Введите третье число: ";
     std::cin >> num3;
 
-    double max_number;
+    float max_number;
 
     if (num1 > num2 && num1 > num3)  {
         max_number = num1;

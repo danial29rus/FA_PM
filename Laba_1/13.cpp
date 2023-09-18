@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    double x, y;
+    float x, y;
 
     std::cout << "Введите координату x: ";
     std::cin >> x;

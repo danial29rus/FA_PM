@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    unsigned int N;
+    int N;
 
     std::cout << "Введите натуральное число N: ";
     std::cin >> N;

@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    double a, b, c;
+    float a, b, c;
     std::cout << "Введите длину первого отрезка: ";
     std::cin >> a;
 
