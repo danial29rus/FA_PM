@@ -5,7 +5,7 @@
 int main() {
     int exit_code = 200;
 
-    FILE *file = fopen("/Users/danyanara/Desktop/универ/sems/sems/Laba 4/log.txt", "r");
+    FILE *file = fopen("/Users/danyanara/Desktop/универ/sems/sems/Laba 5/log.txt", "r");
     if (file == NULL) {
         perror("Не удается открыть файл");
         return 1;
